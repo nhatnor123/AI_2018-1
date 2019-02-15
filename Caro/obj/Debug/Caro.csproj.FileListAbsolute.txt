@@ -1,0 +1,45 @@
+D:\Caro\Caro\Caro\bin\Debug\Caro.exe.config
+D:\Caro\Caro\Caro\bin\Debug\Caro.exe
+D:\Caro\Caro\Caro\bin\Debug\Caro.pdb
+D:\Caro\Caro\Caro\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Caro\Caro\Caro\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Caro\Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+D:\Caro\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+D:\Caro\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+D:\Caro\Caro\Caro\obj\Debug\Caro.exe
+D:\Caro\Caro\Caro\obj\Debug\Caro.pdb
+D:\Caro\Caro\Caro\obj\Debug\Caro.frmCoCaro.resources
+D:\Caro\CaroAI\Caro\bin\Debug\Caro.exe.config
+D:\Caro\CaroAI\Caro\obj\Debug\Caro.exe
+D:\Caro\CaroAI\Caro\obj\Debug\Caro.pdb
+D:\Caro\CaroAI\Caro\bin\Debug\Caro.exe
+D:\Caro\CaroAI\Caro\bin\Debug\Caro.pdb
+D:\Caro\CaroAI\Caro\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Caro\CaroAI\Caro\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Caro\CaroAI\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+D:\Caro\CaroAI\Caro\obj\Debug\Caro.frmCoCaro.resources
+D:\Caro\CaroAI\Caro\obj\Debug\Caro.Properties.Resources.resources
+D:\Caro\CaroAI\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+D:\Caro\CaroAI - ver2\Caro\bin\Debug\Caro.exe.config
+D:\Caro\CaroAI - ver2\Caro\obj\Debug\Caro.exe
+D:\Caro\CaroAI - ver2\Caro\obj\Debug\Caro.pdb
+D:\Caro\CaroAI - ver2\Caro\bin\Debug\Caro.exe
+D:\Caro\CaroAI - ver2\Caro\bin\Debug\Caro.pdb
+D:\Caro\CaroAI - ver2\Caro\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Caro\CaroAI - ver2\Caro\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Caro\CaroAI - ver2\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+D:\Caro\CaroAI - ver2\Caro\obj\Debug\Caro.frmCoCaro.resources
+D:\Caro\CaroAI - ver2\Caro\obj\Debug\Caro.Properties.Resources.resources
+D:\Caro\CaroAI - ver2\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\bin\Debug\Caro.exe
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\obj\Debug\Caro.frmCoCaro.resources
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\obj\Debug\Caro.exe
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\NgLuuNhat\Desktop\Nhóm 7 Final\Code Game Caro\Caro\obj\Debug\Caro.frmExit.resources
